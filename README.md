@@ -9,7 +9,9 @@ private const string TagKey = "TAG_ZBINDER";
 ```
 ![](Pic/1.png)
 * 4.点击ZBinder组件的自动绑定
+
 ![](Pic/2.png)
+
 * 5.它会把你自定义需要的组件和GameObject缓存起来 以供使用
 此处可以在脚本中自定义需要绑定的组件类型
 ```csharp
