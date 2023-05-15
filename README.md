@@ -46,6 +46,10 @@ self.ZBinder.GameObject.HistoryOrderPanel
 ```Lua
 self.ZBinder.ButtonEx.infoItemBtn
 ```
+
+## 2023/05/15
+在RectTransfrom组件上新增Binding Lua选项
+可以取消打TAG绑定的方式
 ## 备注
 如有需要修改和待完善的地方，请联系作者QQ：848832649。
 感谢您所有的意见和建议。
